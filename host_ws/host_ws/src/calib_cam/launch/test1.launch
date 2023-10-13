@@ -1,0 +1,7 @@
+<launch>
+    <arg name="load_params" default="true" />
+    <arg name="params_file" default="$(find image_convert)/launch/camera_param.yaml" />
+    <node name="test_node" pkg="calib_cam" type="test_node" output="screen" >
+        <rosparam command="load" file="$(arg params_file)" if="$(arg load_params)" />
+    </node>
+</launch>

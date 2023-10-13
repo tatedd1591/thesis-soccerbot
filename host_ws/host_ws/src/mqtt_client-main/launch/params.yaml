@@ -1,0 +1,14 @@
+broker:
+  host: 172.20.10.5
+  port: 1883
+bridge:
+  ros2mqtt:
+    - #ros_topic: /ping/primitive
+      mqtt_topic: pingpong
+      ros_topic: /pos_pub/primitive
+      primitive: true
+  mqtt2ros:
+    - mqtt_topic: pingpong/primitive
+      #ros_topic: /pong/primitive
+      ros_topic: /pos_rec/primitive
+      primitive: true
