@@ -1,0 +1,2 @@
+mqtt_client-main:mqtt_client_ros:wiringpi_stm
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/thesis_mqtt/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/thesis_mqtt/install -G Unix Makefiles

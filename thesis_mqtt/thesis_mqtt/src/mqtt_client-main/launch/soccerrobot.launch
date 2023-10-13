@@ -1,0 +1,15 @@
+<launch>
+
+  <arg name="load_params" default="true" />
+  <arg name="params_file" default="$(find mqtt_client)/launch/params.yaml" />
+
+  <node pkg="nodelet" type="nodelet" name="mqtt_client" args="standalone mqtt_client/MqttClient" output="screen">
+    <rosparam command="delete" param="" if="$(arg load_params)" />
+    <rosparam command="load" file="$(arg params_file)" if="$(arg load_params)" />
+  </node>
+  
+  <node pkg="mqtt_client_ros" type="receiver_copy.py" name="pos_receiver" output="screen"/> 
+
+  <node pkg="wiringpi_stm" type="test_wiringpi_spi" name="test_wiringpi_spi_node" output="screen"/> 
+  <!-- <node pkg="wiringpi_stm" type="test_wiringpi_spi1" name="test_wiringpi_spi1_node" output="screen"/>  -->
+</launch>

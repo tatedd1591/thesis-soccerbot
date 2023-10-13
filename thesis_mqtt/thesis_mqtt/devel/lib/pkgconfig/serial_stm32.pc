@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/thesis_mqtt/devel
+
+Name: serial_stm32
+Description: Description of serial_stm32
+Version: 0.0.0
+Cflags: -I/home/ubuntu/thesis_mqtt/devel/include -I/home/ubuntu/thesis_mqtt/src/serial_stm32/include
+Libs: -L${prefix}/lib -lserial_stm32
+Requires: roscpp rospy std_msgs

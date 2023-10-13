@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ros_to_stm_modeling_dynamicb": "cpp",
+        "ros_to_stm_modeling_staticba": "cpp"
+    }
+}

@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="mqtt_client_ros" type="error_feedback.py" name="error_publisher" output="screen"/>
+  <node pkg="mqtt_client_ros" type="receiver.py" name="pos_receiver" output="screen"/> 
+</launch>

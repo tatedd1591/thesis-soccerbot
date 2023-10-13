@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/thesis_mqtt/devel
+
+Name: mqtt_client
+Description: Description of mqtt_client
+Version: 1.1.0
+Cflags: -I/home/ubuntu/thesis_mqtt/devel/include -I/home/ubuntu/thesis_mqtt/src/mqtt_client-main/include
+Libs: -L${prefix}/lib -lmqtt_client /opt/ros/noetic/lib/aarch64-linux-gnu/libpaho-mqttpp3.so.1.2.0
+Requires: message_runtime nodelet roscpp std_msgs topic_tools
