@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=JP1 Old Footprint=JP20-C1T New Footprint=JP20-D1T
+Change Component Footprint: Designator=JP2 Old Footprint=JP20-C1T New Footprint=JP20-D1T
+Added Room: Name=Schematic

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PA10 Pin=Driver2-13
+Removed Pin From Net: NetName=3V3_input Pin=U1-4
+Added Pin To Net: NetName=PC13 Pin=Driver2-13
+Added Room: Name=Schematic

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PB7 Pin=M2-3
+Removed Pin From Net: NetName=PB6 Pin=M2-4
+Added Pin To Net: NetName=PB6 Pin=M2-3
+Added Pin To Net: NetName=PB7 Pin=M2-4
+Added Room: Name=Schematic

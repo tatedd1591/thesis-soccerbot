@@ -1,0 +1,294 @@
+Added Component: Designator=5V_1(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CP1.5/3.4)
+Add component (AddParameter): Name = "Description 1"; Value = "1000uF/6,3V - 470uF/16V - 330uF - 25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "220uF/35V - 100uF/50V - 63V - 4,7uF/200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "22uF => 33uF100V - 3,3uF => 4,7uF/250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "2,2uF =>3,3uF/350 - 2,2uF/400V - 1uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF/35V/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CN2)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CN2)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CP1.5/3.4)
+Add component (AddParameter): Name = "Description 1"; Value = "1000uF/6,3V - 470uF/16V - 330uF - 25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "220uF/35V - 100uF/50V - 63V - 4,7uF/200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "22uF => 33uF100V - 3,3uF => 4,7uF/250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "2,2uF =>3,3uF/350 - 2,2uF/400V - 1uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF/35V/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CN2)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CN2)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=Driver1(TB6612)
+Add component (AddParameter): Name = "WEB"; Value = "TECHMT.VN"; VariantName = "[No Variations]"
+Added Component: Designator=Driver2(TB6612)
+Add component (AddParameter): Name = "WEB"; Value = "TECHMT.VN"; VariantName = "[No Variations]"
+Added Component: Designator=F1(Fuse1)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(QTO-220)
+Add component (AddParameter): Name = "Value"; Value = "LM7805"; VariantName = "[No Variations]"
+Added Component: Designator=JDC(DC-IN)
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(JP20-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613020143121"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(JP20-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613020143121"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED-3)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED-3)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED-3)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=M1(CON6)
+Add component (AddParameter): Name = "Value"; Value = "Connector 6"; VariantName = "[No Variations]"
+Added Component: Designator=M2(CON6)
+Add component (AddParameter): Name = "Value"; Value = "Connector 6"; VariantName = "[No Variations]"
+Added Component: Designator=M3(CON6)
+Add component (AddParameter): Name = "Value"; Value = "Connector 6"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R1/4W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=S1(MTS 103)
+Added Component: Designator=STM32F1(Blue Pill)
+Added Pin To Net: NetName=+12V Pin=C1-1
+Added Pin To Net: NetName=+12V Pin=C2-2
+Added Pin To Net: NetName=+12V Pin=Driver1-1
+Added Pin To Net: NetName=+12V Pin=Driver2-1
+Added Pin To Net: NetName=+12V Pin=F1-1
+Added Pin To Net: NetName=+12V Pin=F1-1
+Added Pin To Net: NetName=+12V Pin=IC1-1
+Added Pin To Net: NetName=+12V Pin=R1-2
+Added Net: Name=+12V
+Added Pin To Net: NetName=3V3_1 Pin=JP1-20
+Added Pin To Net: NetName=3V3_1 Pin=STM32F1-20
+Added Net: Name=3V3_1
+Added Pin To Net: NetName=3V3_2 Pin=JP2-3
+Added Pin To Net: NetName=3V3_2 Pin=STM32F1-38
+Added Net: Name=3V3_2
+Added Pin To Net: NetName=3V3_input Pin=C6-2
+Added Pin To Net: NetName=3V3_input Pin=M1-5
+Added Pin To Net: NetName=3V3_input Pin=M2-5
+Added Pin To Net: NetName=3V3_input Pin=M3-5
+Added Net: Name=3V3_input
+Added Pin To Net: NetName=5V_input Pin=5V_1-1
+Added Pin To Net: NetName=5V_input Pin=C3-2
+Added Pin To Net: NetName=5V_input Pin=C4-1
+Added Pin To Net: NetName=5V_input Pin=C5-2
+Added Pin To Net: NetName=5V_input Pin=Driver1-2
+Added Pin To Net: NetName=5V_input Pin=Driver2-2
+Added Pin To Net: NetName=5V_input Pin=IC1-3
+Added Pin To Net: NetName=5V_input Pin=R2-2
+Added Pin To Net: NetName=5V_input Pin=S1-2
+Added Net: Name=5V_input
+Added Pin To Net: NetName=5V_IN Pin=JP1-18
+Added Pin To Net: NetName=5V_IN Pin=LED?-1
+Added Pin To Net: NetName=5V_IN Pin=S1-1
+Added Pin To Net: NetName=5V_IN Pin=STM32F1-18
+Added Net: Name=5V_IN
+Added Pin To Net: NetName=GND Pin=5V_1-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=Driver1-3
+Added Pin To Net: NetName=GND Pin=Driver1-8
+Added Pin To Net: NetName=GND Pin=Driver1-9
+Added Pin To Net: NetName=GND Pin=Driver2-3
+Added Pin To Net: NetName=GND Pin=Driver2-8
+Added Pin To Net: NetName=GND Pin=Driver2-9
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=JDC-2
+Added Pin To Net: NetName=GND Pin=JDC-3
+Added Pin To Net: NetName=GND Pin=JP1-19
+Added Pin To Net: NetName=GND Pin=JP2-1
+Added Pin To Net: NetName=GND Pin=JP2-2
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=GND Pin=M1-2
+Added Pin To Net: NetName=GND Pin=M2-2
+Added Pin To Net: NetName=GND Pin=M3-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=STM32F1-19
+Added Pin To Net: NetName=GND Pin=STM32F1-39
+Added Pin To Net: NetName=GND Pin=STM32F1-40
+Added Net: Name=GND
+Added Pin To Net: NetName=M1+ Pin=Driver1-4
+Added Pin To Net: NetName=M1+ Pin=M1-1
+Added Net: Name=M1+
+Added Pin To Net: NetName=M1- Pin=Driver1-5
+Added Pin To Net: NetName=M1- Pin=M1-6
+Added Net: Name=M1-
+Added Pin To Net: NetName=M2+ Pin=Driver1-6
+Added Pin To Net: NetName=M2+ Pin=M2-1
+Added Net: Name=M2+
+Added Pin To Net: NetName=M2- Pin=Driver1-7
+Added Pin To Net: NetName=M2- Pin=M2-6
+Added Net: Name=M2-
+Added Pin To Net: NetName=M3+ Pin=Driver2-4
+Added Pin To Net: NetName=M3+ Pin=M3-1
+Added Net: Name=M3+
+Added Pin To Net: NetName=M3- Pin=Driver2-5
+Added Pin To Net: NetName=M3- Pin=M3-6
+Added Net: Name=M3-
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=JDC-1
+Added Net: Name=NetF1_2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R2-1
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED?_2 Pin=LED?-2
+Added Pin To Net: NetName=NetLED?_2 Pin=R3-1
+Added Net: Name=NetLED?_2
+Added Pin To Net: NetName=NRST Pin=JP2-4
+Added Pin To Net: NetName=NRST Pin=STM32F1-37
+Added Net: Name=NRST
+Added Pin To Net: NetName=PA0 Pin=Driver1-16
+Added Pin To Net: NetName=PA0 Pin=JP2-16
+Added Pin To Net: NetName=PA0 Pin=STM32F1-25
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1 Pin=Driver1-15
+Added Pin To Net: NetName=PA1 Pin=JP2-15
+Added Pin To Net: NetName=PA1 Pin=STM32F1-26
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA2 Pin=Driver1-14
+Added Pin To Net: NetName=PA2 Pin=JP2-14
+Added Pin To Net: NetName=PA2 Pin=STM32F1-27
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=Driver1-13
+Added Pin To Net: NetName=PA3 Pin=Driver2-13
+Added Pin To Net: NetName=PA3 Pin=JP2-13
+Added Pin To Net: NetName=PA3 Pin=STM32F1-28
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=Driver1-12
+Added Pin To Net: NetName=PA4 Pin=JP2-12
+Added Pin To Net: NetName=PA4 Pin=STM32F1-29
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=Driver1-11
+Added Pin To Net: NetName=PA5 Pin=JP2-11
+Added Pin To Net: NetName=PA5 Pin=STM32F1-30
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=JP2-10
+Added Pin To Net: NetName=PA6 Pin=M3-4
+Added Pin To Net: NetName=PA6 Pin=STM32F1-31
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=JP2-9
+Added Pin To Net: NetName=PA7 Pin=M3-3
+Added Pin To Net: NetName=PA7 Pin=STM32F1-32
+Added Net: Name=PA7
+Added Pin To Net: NetName=PA8 Pin=JP1-5
+Added Pin To Net: NetName=PA8 Pin=M1-3
+Added Pin To Net: NetName=PA8 Pin=STM32F1-5
+Added Net: Name=PA8
+Added Pin To Net: NetName=PA9 Pin=JP1-6
+Added Pin To Net: NetName=PA9 Pin=M1-4
+Added Pin To Net: NetName=PA9 Pin=STM32F1-6
+Added Net: Name=PA9
+Added Pin To Net: NetName=PA10 Pin=JP1-7
+Added Pin To Net: NetName=PA10 Pin=STM32F1-7
+Added Net: Name=PA10
+Added Pin To Net: NetName=PA11 Pin=JP1-8
+Added Pin To Net: NetName=PA11 Pin=STM32F1-8
+Added Net: Name=PA11
+Added Pin To Net: NetName=PA12 Pin=JP1-9
+Added Pin To Net: NetName=PA12 Pin=STM32F1-9
+Added Net: Name=PA12
+Added Pin To Net: NetName=PA15 Pin=JP1-10
+Added Pin To Net: NetName=PA15 Pin=STM32F1-10
+Added Net: Name=PA15
+Added Pin To Net: NetName=PB0 Pin=Driver2-14
+Added Pin To Net: NetName=PB0 Pin=JP2-8
+Added Pin To Net: NetName=PB0 Pin=STM32F1-33
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=Driver2-15
+Added Pin To Net: NetName=PB1 Pin=JP2-7
+Added Pin To Net: NetName=PB1 Pin=STM32F1-34
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB3 Pin=JP1-11
+Added Pin To Net: NetName=PB3 Pin=STM32F1-11
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=JP1-12
+Added Pin To Net: NetName=PB4 Pin=STM32F1-12
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=JP1-13
+Added Pin To Net: NetName=PB5 Pin=STM32F1-13
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB6 Pin=JP1-14
+Added Pin To Net: NetName=PB6 Pin=M2-4
+Added Pin To Net: NetName=PB6 Pin=STM32F1-14
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB7 Pin=JP1-15
+Added Pin To Net: NetName=PB7 Pin=M2-3
+Added Pin To Net: NetName=PB7 Pin=STM32F1-15
+Added Net: Name=PB7
+Added Pin To Net: NetName=PB8 Pin=JP1-16
+Added Pin To Net: NetName=PB8 Pin=STM32F1-16
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=JP1-17
+Added Pin To Net: NetName=PB9 Pin=STM32F1-17
+Added Net: Name=PB9
+Added Pin To Net: NetName=PB10 Pin=Driver1-10
+Added Pin To Net: NetName=PB10 Pin=JP2-6
+Added Pin To Net: NetName=PB10 Pin=STM32F1-35
+Added Net: Name=PB10
+Added Pin To Net: NetName=PB11 Pin=Driver2-16
+Added Pin To Net: NetName=PB11 Pin=JP2-5
+Added Pin To Net: NetName=PB11 Pin=STM32F1-36
+Added Net: Name=PB11
+Added Pin To Net: NetName=PB12 Pin=JP1-1
+Added Pin To Net: NetName=PB12 Pin=STM32F1-1
+Added Net: Name=PB12
+Added Pin To Net: NetName=PB13 Pin=JP1-2
+Added Pin To Net: NetName=PB13 Pin=STM32F1-2
+Added Net: Name=PB13
+Added Pin To Net: NetName=PB14 Pin=JP1-3
+Added Pin To Net: NetName=PB14 Pin=STM32F1-3
+Added Net: Name=PB14
+Added Pin To Net: NetName=PB15 Pin=JP1-4
+Added Pin To Net: NetName=PB15 Pin=STM32F1-4
+Added Net: Name=PB15
+Added Pin To Net: NetName=PC13 Pin=JP2-19
+Added Pin To Net: NetName=PC13 Pin=STM32F1-22
+Added Net: Name=PC13
+Added Pin To Net: NetName=PC14 Pin=JP2-18
+Added Pin To Net: NetName=PC14 Pin=STM32F1-23
+Added Net: Name=PC14
+Added Pin To Net: NetName=PC15 Pin=JP2-17
+Added Pin To Net: NetName=PC15 Pin=STM32F1-24
+Added Net: Name=PC15
+Added Pin To Net: NetName=VBAT Pin=JP2-20
+Added Pin To Net: NetName=VBAT Pin=STM32F1-21
+Added Net: Name=VBAT
+Added Class: Name=Schematic
+Added Room: Name=Schematic

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=3V3_input Pin=U1-4
+Change Component Footprint: Designator=JP1 Old Footprint=JP20-D1T New Footprint=JP20-C1T
+Change Component Footprint: Designator=JP2 Old Footprint=JP20-D1T New Footprint=JP20-C1T
+Change Component Library : Designator=M1 Old Library=echipkool-com-library.SchLib New Library=My Library.SchLib
+Added Room: Name=Schematic

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=PB6 Pin=M1-3
+Removed Pin From Net: NetName=PB7 Pin=M1-4
+Removed Pin From Net: NetName=PA8 Pin=M2-3
+Removed Pin From Net: NetName=PA9 Pin=M2-4
+Added Component: Designator=PS2(CON6)
+Add component (AddParameter): Name = "Value"; Value = "Connector 6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA8 Pin=M1-3
+Added Pin To Net: NetName=PA9 Pin=M1-4
+Added Pin To Net: NetName=PB6 Pin=M2-3
+Added Pin To Net: NetName=PB7 Pin=M2-4
+Added Pin To Net: NetName=M2+ Pin=PS2-1
+Added Pin To Net: NetName=GND Pin=PS2-2
+Added Pin To Net: NetName=PA8 Pin=PS2-3
+Added Pin To Net: NetName=PA9 Pin=PS2-4
+Added Pin To Net: NetName=3V3_input Pin=PS2-5
+Added Pin To Net: NetName=M2- Pin=PS2-6
+Added Member To Class: ClassName=Schematic Member=Component PS2 JP6
+Added Room: Name=Schematic

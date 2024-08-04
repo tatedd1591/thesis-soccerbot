@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PC15 Pin=Driver2-14
+Removed Pin From Net: NetName=PC14 Pin=Driver2-15
+Added Pin To Net: NetName=PC14 Pin=Driver2-14
+Added Pin To Net: NetName=PC15 Pin=Driver2-15
+Added Room: Name=Schematic
